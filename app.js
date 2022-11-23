@@ -1,4 +1,4 @@
-import {fetchMovieAvailability,fetchMovieList} from "./api.js";
+import {fetchMovieList, fetchMovieAvailability} from "./api.js";
 
 // Selectors
 const mainElement = document.querySelector("main");
